@@ -1,7 +1,5 @@
 # MVC architecture with authentication and admin panel
-One Paragraph of project description goes here
-
-er
+MVC application written on pure PHP HTML CSS and JavaScript
 
 ## Prerequisites
 1.PHP 7.* >=  
